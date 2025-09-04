@@ -1,0 +1,3 @@
+hola este es una buena practica para poder comprender como relacionar los archivos con python
+este es el ejercisio
+esta es la nueva practica
